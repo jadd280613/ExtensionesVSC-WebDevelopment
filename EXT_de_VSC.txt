@@ -1,0 +1,35 @@
+************* General *************
+Activitus Bar
+Auto close tag
+Auto rename tag
+better comments
+Bracket pair colorizer 2
+CodeSnap
+Material Icon Theme
+Monokai Night Theme
+Path Intellisense
+Prettier - Code formatter
+************* Flutter *************
+Awesome flutter snippets
+Dart
+Flutter
+Pubspec Assist
+************* React & Vue *************
+Enzyme Snippets
+ES7 React/Redux/GraphQL/React-Native snippets
+Simple React Snippets
+vscode-styled-components
+Split HTML Attributes (Vue, React, Angular)
+Vetur
+Vue 3 Snippets
+************* HTML, CSS & PHP *************
+HTML CSS Support
+HTML Snippets
+JavaScript (ES6) code snippets
+Live Server
+PHP Debug
+PHP Intelephense
+PHP IntelliSense
+
+
+
